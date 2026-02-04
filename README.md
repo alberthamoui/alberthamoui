@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently a student in INSPER<br><br><br>I’m looking to collaborate on: backend/API projects, and practical engineering projects with solid tests/docs.<br><br>Ask me about: FastAPI + SQLite patterns, SQLAlchemy connection pitfalls, pytest testing strategy, Docker workflows, and metaheuristics for portfolio optimization.<br><br>Fun fact: I’ve done an exchange study in one of the best engineering universities in portugal<br>
+I’m currently a student in INSPER<br><br><br>I’m looking to collaborate on: backend/API projects, and practical engineering projects with solid tests/docs.<br><br>Ask me about: FastAPI + SQLite patterns, SQLAlchemy connection pitfalls, pytest testing strategy, Docker workflows, and metaheuristics for portfolio optimization.<br><br>Fun fact: I did an exchange semester at FEUP (University of Porto), one of Portugal’s top engineering schools.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alberthamoui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albert-hamoui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albertdavidhamoui@gmail.com) 
